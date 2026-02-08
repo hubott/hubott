@@ -33,10 +33,10 @@ Focus on UX improvements and real user functionality
 
 ## 🛠 Technical Skills
 
-Frontend: TypeScript, React, Next.js, Tailwind
-Backend: Node.js, tRPC, Prisma
-Database: PostgreSQL
-Tools: Git, Vercel, REST APIs
+**Frontend:** TypeScript, React, Next.js, Tailwind  
+**Backend:** Node.js, tRPC, Prisma  
+**Database:** PostgreSQL  
+**Tools:** Git, Vercel, REST APIs  
 
 ## 🎯 Currently Seeking
 Graduate / Junior Software Developer roles

@@ -12,15 +12,15 @@ Designed and built as a real daily-use system with authentication, persistent da
 
 **Core features**
 
-Notes & task tracking with priorities and deadlines
+- Notes & task tracking with priorities and deadlines
 
-Show/season/episode tracker with ratings & thoughts
+- Show/season/episode tracker with ratings & thoughts
 
-Secure authentication + database persistence
+- Secure authentication + database persistence
 
-Responsive UI built for actual daily use
+- Responsive UI built for actual daily use
 
-Deployed production app (Vercel + Neon Postgres)
+- Deployed production app (Vercel + Neon Postgres)
 
 **Tech stack**
 Next.js • TypeScript • tRPC • Prisma • PostgreSQL • Tailwind • Vercel

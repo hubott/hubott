@@ -1,60 +1,67 @@
-## Hi, I'm Hugo 👋
+# Hi, I'm Hugo 👋
 
-CS graduate (University of Melbourne) building production-style full-stack applications with TypeScript, React, and modern web tooling.
+Computing and Software Systems graduate from the University of Melbourne with interests in data engineering, analytics, machine learning, and software development.
 
-I focus on clean architecture, strong UX, and deployable real-world apps.
+I enjoy working with real-world datasets, building data pipelines, creating analytical dashboards, and developing software that turns complex data into useful insights.
+
+## 🚶 Featured Project: Melbourne Urban Mobility Analytics
+
+Interactive analytics dashboard built using Melbourne pedestrian sensor data and weather data spanning multiple years.
+
+### Key Features
+
+* Cleaned, transformed, and analysed large-scale pedestrian sensor datasets using Python and Pandas
+* Integrated external weather data to investigate environmental impacts on pedestrian activity
+* Identified temporal patterns including commuter peaks, seasonal trends, and weekday/weekend differences
+* Developed interactive geospatial visualisations and dashboards using Streamlit and Plotly
+* Generated insights into urban mobility behaviour across Melbourne CBD locations
+
+**Tech Stack:** Python • Pandas • NumPy • Streamlit • Plotly • Data Analysis
 
 ## 🚀 Featured Project: InnerLog
 
-**Full-stack productivity + media tracking platform**
+Full-stack productivity and media tracking platform designed as a real daily-use application.
 
-Designed and built as a real daily-use system with authentication, persistent data, and responsive UI.
+### Key Features
 
-**Core features**
+* Notes and task management with priorities and deadlines
+* Media tracking for shows, seasons, and episodes
+* Secure authentication and persistent data storage
+* Responsive UI built with modern web technologies
 
-- Notes & task tracking with priorities and deadlines
+**Tech Stack:** Next.js • TypeScript • tRPC • Prisma • PostgreSQL • Tailwind • Vercel
 
-- Show/season/episode tracker with ratings & thoughts
+## 🧠 Other Projects
 
-- Secure authentication + database persistence
+### Image Classification System
 
-- Responsive UI built for actual daily use
+* Built machine learning models for a 42-class image classification problem
+* Implemented feature engineering pipelines using HOG, SIFT, colour histograms, and edge density features
+* Evaluated and compared model performance using classification metrics
 
-- Deployed production app (Vercel + Neon Postgres)
+### YouTube Playlist Duration Extension
 
-**Tech stack**
-Next.js • TypeScript • tRPC • Prisma • PostgreSQL • Tailwind • Vercel
-
-## 🧩 Other Projects
-
-Chrome Extension
-YouTube playlist enhancer built with JavaScript + browser APIs
-Focus on UX improvements and real user functionality
+* Published Chrome extension with 200+ users
+* Built using JavaScript and Chrome Extension APIs
+* Designed to improve playlist usability and viewing planning
 
 ## 🛠 Technical Skills
 
-**Frontend:** TypeScript, React, Next.js, Tailwind  
-**Backend:** Node.js, tRPC, Prisma  
-**Database:** PostgreSQL  
-**Tools:** Git, Vercel, REST APIs  
+**Languages:** Python, SQL, TypeScript, JavaScript, Java, C
+
+**Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow
+
+**Databases:** PostgreSQL, MySQL
+
+**Cloud & Tools:** AWS, Git, Streamlit, Plotly, Vercel
 
 ## 🎯 Currently Seeking
-Graduate / Junior Software Developer roles
-Melbourne, Australia
 
+Graduate and Junior opportunities in:
 
+* Data Engineering
+* Analytics Engineering
+* Data Analytics
+* Software Engineering
 
-<!--
-**hubott/hubott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Melbourne, Australia.
